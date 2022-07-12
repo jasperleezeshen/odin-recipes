@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+    background-color: orange;
+    color: black;
+    text-align: center;
+}
+
+.sub {
+    background-color: pink;
+    color: black;
+    text-align: center;
+}
+
+.list {
+    color: brown;
+    text-align: center;
+}
