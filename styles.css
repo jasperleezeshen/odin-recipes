@@ -18,3 +18,13 @@
     color: brown;
     text-align: center;
 }
+
+div {
+    display: grid;
+    place-items: center;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
